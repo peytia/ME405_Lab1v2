@@ -24,9 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Lab2_ME405", "index.html", [
-    [ "Lab 2: Developing A Motor Controller", "md_docs__r_e_a_d_m_e.html", null ],
-    [ "Lab 2: Developing A Motor Controller", "md__r_e_a_d_m_e.html", null ],
+  [ "ME405_Lab2", "index.html", [
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

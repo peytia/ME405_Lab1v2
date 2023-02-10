@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['lab_202_3a_20developing_20a_20motor_20controller_0',['Lab 2: Developing A Motor Controller',['../md_docs__r_e_a_d_m_e.html',1,'(Global Namespace)'],['../md__r_e_a_d_m_e.html',1,'(Global Namespace)']]]
+  ['motor_5fcontroller_2epy_0',['motor_controller.py',['../motor__controller_8py.html',1,'']]],
+  ['motorcontroller_1',['MotorController',['../classmotor__controller_1_1_motor_controller.html',1,'motor_controller']]],
+  ['motordriver_2',['MotorDriver',['../classmotor__driver_1_1_motor_driver.html',1,'motor_driver']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['motor_5fcontroller_2epy_0',['motor_controller.py',['../motor__controller_8py.html',1,'']]],
-  ['motorcontroller_1',['MotorController',['../classmotor__controller_1_1_motor_controller.html',1,'motor_controller']]],
-  ['motordriver_2',['MotorDriver',['../classmotor__driver_1_1_motor_driver.html',1,'motor_driver']]]
+  ['read_0',['read',['../classencoder__reader_1_1_encoder_reader.html#a9801116bbe535134eb87de5e513394d3',1,'encoder_reader::EncoderReader']]],
+  ['run_1',['run',['../classmotor__controller_1_1_motor_controller.html#a78b56e49ee0a85800e914b29d75e733d',1,'motor_controller::MotorController']]]
 ];
