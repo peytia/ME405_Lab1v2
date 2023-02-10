@@ -24,7 +24,9 @@
 */
 var NAVTREE =
 [
-  [ "Lab1_ME405", "index.html", [
+  [ "Lab2_ME405", "index.html", [
+    [ "Lab 2: Developing A Motor Controller", "md_docs__r_e_a_d_m_e.html", null ],
+    [ "Lab 2: Developing A Motor Controller", "md__r_e_a_d_m_e.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -32,6 +34,9 @@ var NAVTREE =
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ]
       ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
